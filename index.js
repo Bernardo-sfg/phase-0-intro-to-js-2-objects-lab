@@ -25,3 +25,4 @@ function destructivelyDeleteFromEmployeeByKey(empObj, key){
     delete empObj[key]
     return empObj
 }
+//test
